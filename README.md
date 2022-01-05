@@ -1,4 +1,5 @@
 # PyTaucPlot
+Calculate band gap from UV-vis spectrum.
 
 ## Created and maintained by Yucheng Lan and Kit Sze
 
