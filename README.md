@@ -1,7 +1,7 @@
 # PyTaucPlot
 Calculate band gap from UV-vis spectrum.
 
-Created and maintained by Yucheng Lan and Kit Sze
+Created and maintained by Yucheng Lan, Kit Sze, and Ben Ogueri
 
 ## versions
 1. Version 0.01.21: Standardized plot of UV-vis spectrum and Tauc plots.  Manually input data, output figures, and find bandgaps.
