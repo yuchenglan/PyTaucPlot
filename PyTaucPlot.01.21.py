@@ -37,7 +37,7 @@ plt.ylabel(r'$(\alpha h \nu)^{2}$ (cm$^{-1}$ $\cdot$ eV)$^{2}$', fontsize=12) # 
 #for n= 3
 #plt.ylabel(r'$(\alpha h \nu)^{1/n}$ $(cm^{-1} \times eV)^{1/3}$', fontsize=12)
 plt.xlim(1, 4)
-plt.ylim(0,5.1)
+plt.ylim(0, np.max(y_Ca200)*1.2)
 plt.tick_params(axis="y",direction="in", labelsize=10)
 plt.tick_params(axis="x",direction="in", labelsize=10)
 #plt.title('Tauc Plots')
